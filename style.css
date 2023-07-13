@@ -59,8 +59,9 @@ header {
 /*section_1 starts*/
 .section-1 {
   text-align: center;
-  margin: 60px 160px;
+  margin: 80px 160px;
   max-width: 1000px;
+
 }
 .featchered-flower{
   color: #272727;
@@ -123,6 +124,16 @@ width: 350px;
   width: 150px;
   margin-top: 98px;
 }
+.pink-flower-para{
+  color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; 
+text-decoration-line: underline;
+}
 
 /*section_2 starts*/
 .section-2 {
@@ -133,6 +144,7 @@ width: 350px;
   margin: 60px 160px;
   width: 1000px;
   height: 220px;
+  margin-top: 40px;
 }
 .support {
   text-align: center;
@@ -270,7 +282,20 @@ margin-bottom: 10px;
 textarea .placeholder {
   text-align: center;
 }
-
+/*thanks starts*/
+.thanks{
+  background-color: burlywood;
+  height: 80px;
+  width: 800px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+.thanks-title{
+  text-align: center;
+  font-size: 40px;
+  padding:10px;
+  color:#FFF;
+}
 /*footer starts*/
 footer{
   padding:40px;
